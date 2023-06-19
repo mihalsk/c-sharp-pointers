@@ -1,2 +1,2 @@
 # c-sharp-pointers
-Pointers for per pixel image filtering
+Pointers for pixel-by-pixel image filtering(C# WinForms)
